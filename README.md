@@ -1,5 +1,5 @@
 # WordPress-Last-Modified-Report
-This WordPress customization adds a report to the admin dashboard where a list of pages can be viewed and sorted by the date the page was last modified.
+This WordPress customization adds a report to the admin dashboard where a list of pages can be viewed and sorted by the date the page was last modified. The report can also be exported in CSV and PDF formats.
 
 ## Prep - Advanced Custom Fields and the page_expert field
 This report assumes the Primary Contact for a particular page is not necessarily the same person as the page owner. 
